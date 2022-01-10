@@ -1,5 +1,5 @@
 # BSPC
-##Trained models for PTB-XL ECG dataset
+## Trained models for PTB-XL ECG dataset
 
 This repository contains our trained models which have been trained from scratch on PTB-XL ECG dataset (https://physionet.org/content/ptb-xl/1.0.1/).
 It also contains models of other authors which we have trained on the same dataset after fine-tuning. If you intend to use any of the models in this repository, please cite the original authors reference as well as ours.
