@@ -5,7 +5,7 @@
 3. Code requires two more packages to run: **Numpy** and **Tensorflow**
    1. Install numpy -> <code> pip install numpy </code>
    2. Install tensorflow -> <code> pip install tensorflow </code>  
-5. Run the code file: python main.py 
+5. Run the code file: <code> python main.py </code>
 6. It will output the classes for the given sample. 
 
 Note: 
