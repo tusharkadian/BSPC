@@ -1,4 +1,18 @@
 # BSPC
+## Instructions
+1. Clone the github repository to your local system using <code> git clone https://github.com/tusharkadian/BSPC.git </code>
+2. Make your python and pip are installed in your system. If not, visit https://www.python.org/ to download python. 
+3. Code requires two more packages to run: **Numpy** and **Tensorflow**
+   1. Install numpy -> <code> pip install numpy </code>
+   2. Install tensorflow -> <code> pip install tensorflow </code>  
+5. Run the code file: python main.py 
+6. It will output the classes for the given sample. 
+
+Note: 
+* We can specify the input file on line 12. 
+* We can specify the model on line 18.
+* Bilinear model required two stream of inputs. On line 22, pass <code> [x, x] </code> to model.predict().
+
 ## Trained models for PTB-XL ECG dataset
 
 This repository contains our trained models which have been trained from scratch on PTB-XL ECG dataset (https://physionet.org/content/ptb-xl/1.0.1/).
