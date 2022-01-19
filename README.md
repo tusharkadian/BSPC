@@ -11,7 +11,7 @@
 Note: 
 * We can specify the input file on line 12. 
 * We can specify the model on line 18.
-* Bilinear model required two stream of inputs. On line 22, pass <code> [x, x] </code> to model.predict().
+* Bilinear models required two stream of inputs. On line 22, pass <code>[x, x]</code> to model.predict().
 
 ## Trained models for PTB-XL ECG dataset
 
