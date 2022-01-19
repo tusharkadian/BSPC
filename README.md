@@ -1,7 +1,7 @@
 # BSPC
 
-Please cite this paper if you use this repository-
-Atul Anand, Tushar Kadian, Manu Kumar Shetty, and Anubha Gupta, "Explainable AI Decision Model for ECG Data of Cardiac Disorders," Under Review, January 2022.
+Please cite the below paper if you use this repository-
+[1] Atul Anand, Tushar Kadian, Manu Kumar Shetty, and Anubha Gupta, "Explainable AI Decision Model for ECG Data of Cardiac Disorders," Under Review, January 2022.
 
 ## Instructions
 1. Clone the github repository to your local system using <code> git clone https://github.com/tusharkadian/BSPC.git </code>
@@ -28,7 +28,7 @@ Please refer to the links below for the corresponding models adapted by us:
 * Attention-56 Model: https://github.com/Sourajit2110/Residual-Attention-Convolutional-Neural-Network
 * SENet: https://ieeexplore.ieee.org/document/8578843
 
-Our models include:
+Our models, that are explained in the paper [1] referred above, include:
 * ST-CNN-5
 * ST-CNN-GAP-5
 * DCT (H) + ST-CNN-GAP-5 
