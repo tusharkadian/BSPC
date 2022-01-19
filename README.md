@@ -1,6 +1,6 @@
 # BSPC
 
-Please cite the below paper if you use this repository-
+Please cite the below paper if you use this repository-<br/>
 [1] Atul Anand, Tushar Kadian, Manu Kumar Shetty, and Anubha Gupta, "Explainable AI Decision Model for ECG Data of Cardiac Disorders," Under Review, January 2022.
 
 ## Instructions
