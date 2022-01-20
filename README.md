@@ -3,7 +3,17 @@
 Please cite the below paper if you use this repository-<br/>
 [1] Atul Anand, Tushar Kadian, Manu Kumar Shetty, and Anubha Gupta, "Explainable AI Decision Model for ECG Data of Cardiac Disorders," Under Review, January 2022.
 
-## Instructions
+## Data Preprocessing for PTB-XL
+1. Download the zip file from https://physionet.org/content/ptb-xl/1.0.1/
+2. Extract to a location
+3. Run the file <em>example_physionet.py</em>
+4. It will initialize 4 variables: <em>X_train, y_train, X_test, y_test</em> 
+5. Save the files in npy format: <code>np.save('<file_name>.npy', <variable_name>)</code>
+6. These files could be used with our code.
+  
+
+
+## Instructions to run sample files
 1. Clone the github repository to your local system using <code> git clone https://github.com/tusharkadian/BSPC.git </code>
 2. Make sure python and pip are installed in your system. If not, visit https://www.python.org/ to download python. 
 3. Code requires two more packages to run: **Numpy** and **Tensorflow**
