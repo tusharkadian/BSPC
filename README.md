@@ -12,7 +12,7 @@ Please cite the below paper if you use this repository-<br/>
 6. These files could be used with our code.
   
 ## Data Preprocessing for Arrhythmia ECG Dataset
-1. Download the <em>ECGDatadenoised.zip</em> and <em>Diagnostics.xlsx</em> file from https://physionet.org/content/ptb-xl/1.0.1/
+1. Download the <em>ECGDatadenoised.zip</em> and <em>Diagnostics.xlsx</em> file from https://figshare.com/collections/ChapmanECG/4560497/2
 2. Extract the zip file to a location
 3. Convert the <em>xlsx</em> file into a <em>csv</em> file
 4. Place the <em>arrhythmia-data-preprocessing.ipynb</em> file in the same location
