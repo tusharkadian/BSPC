@@ -11,8 +11,14 @@ Please cite the below paper if you use this repository-<br/>
 5. Save the files in npy format: <code>np.save('<file_name>.npy', <variable_name>)</code>
 6. These files could be used with our code.
   
-
-
+## Data Preprocessing for Arrhythmia ECG Dataset
+1. Download the <em>ECGDatadenoised.zip</em> and <em>Diagnostics.xlsx</em> file from https://physionet.org/content/ptb-xl/1.0.1/
+2. Extract the zip file to a location
+3. Convert the <em>xlsx</em> file into a <em>csv</em> file
+4. Place the <em>arrhythmia-data-preprocessing.ipynb</em> file in the same location
+5. Next, run the cells from this preprocessing file one by one to create the training and test set files for 500 hz and 100 Hz signals. 
+  
+  
 ## Instructions to run sample files
 1. Clone the github repository to your local system using <code> git clone https://github.com/tusharkadian/BSPC.git </code>
 2. Make sure python and pip are installed in your system. If not, visit https://www.python.org/ to download python. 
